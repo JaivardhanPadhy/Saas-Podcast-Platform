@@ -61,16 +61,18 @@ To get started with the Saas-Podcast-Platform, follow these steps:
 
   ```bash
    npm install
+```
 Set up environment variables:
 Create a .env file in the root directory and add the necessary environment variables. Refer to the .env.example file for guidance.
 
-Run the application:
+4.**Run the application:**
 
-bash
-Copy code
+```bash
 npm run dev
-The application should now be running on http://localhost:3000.
+
 ```
+The application should now be running on <a>http://localhost:3000</a>
+
 ## Usage
 Once the application is up and running, you can start exploring its features:
 <ul>
@@ -95,10 +97,18 @@ Once the application is up and running, you can start exploring its features:
 We welcome contributions to the Saas-Podcast-Platform! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. Follow these steps to contribute:
 
 Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes.
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature-branch).
+ - Create a new branch
+   ``` bash
+    git checkout -b feature-branch
+   ```
+- Make your changes.
+   - Commit your changes 
+    ``` bash
+    
+               git commit -m 'Add some feature'
+     ```          
+
+- Push to the branch (git push origin feature-branch).
 Open a pull request.
 
 ## Contact
