@@ -105,7 +105,7 @@ Fork the repository.
    - Commit your changes 
     ``` bash
     
-               git commit -m 'Add some feature'
+     git commit -m 'Add some feature'
      ```          
 
 - Push to the branch (git push origin feature-branch).
